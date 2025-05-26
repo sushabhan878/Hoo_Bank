@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" alt="Project Banner" />
+  <img src="./src/assets/logo.svg" alt="Project Banner" />
 </p>
 
 <h1 align="center">🚀 Hoo Bank </h1>
