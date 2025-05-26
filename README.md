@@ -2,7 +2,6 @@
   <img src="./src/assets/logo.svg" alt="Project Banner" />
 </p>
 
-<h1 align="center">🚀 Hoo Bank </h1>
 <p align="center">An awesome tagline that captures what your project does.</p>
 
 <p align="center">
